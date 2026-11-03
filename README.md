@@ -18,7 +18,7 @@ Indico is a web application for managing events such as conferences, meetings an
 ## What I changed
 
 - **Custom theme (CSS):** a new look for the interface (purple/blue gradient header, rounded buttons, hover effects), loaded through Indico's `CUSTOMIZATION_DIR` setting. The file is in [`customization/css/`](customization/css/).
-- _Add your next changes here (for example a plugin, a new route or a new feature), and say exactly what each one does._
+
 
 ## Tech stack
 
